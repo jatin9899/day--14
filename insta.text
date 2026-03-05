@@ -13,3 +13,8 @@
 ==> users
     => followers
     => following    
+
+
+
+
+why we dont send password in response when we register a user
